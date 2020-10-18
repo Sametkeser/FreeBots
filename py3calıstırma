@@ -40,6 +40,4 @@ pip3 install goslate
 
 pip3 install naked
 
-
-
-
+pip3 install pytz
