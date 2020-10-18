@@ -1,0 +1,220 @@
+
+[Kamis, 18 - 06 - 2020 | 18:54:03] TalkException(code=35, reason='request blocked', parameterMap=None)
+[Sabtu, 20 - 06 - 2020 | 02:49:33] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 02:50:06] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 02:53:07] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 03:00:51] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 06:06:58] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 06:18:38] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 14:49:20] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 14:55:46] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:02:02] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:02:32] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:06:21] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:20:46] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:41:44] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:42:15] 'emsalsız'
+[Sabtu, 20 - 06 - 2020 | 15:50:16] 'emsalsız'
+[Selasa, 30 - 06 - 2020 | 13:58:01] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=THCAP_gUl8HBL9FFSg4deA&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Selasa, 30 - 06 - 2020 | 13:59:02] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=wkFMnFlYycfrIwwBIPSY_Q&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Selasa, 30 - 06 - 2020 | 14:04:11] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 14:06:33] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 19:15:29] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 19:16:18] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 19:18:29] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 20:08:16] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 21:27:48] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[Selasa, 30 - 06 - 2020 | 21:36:09] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=rFuUfgFYPOGjBgo-4RLXcQ&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 28 - 08 - 2020 | 00:30:06] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=ki3dm6SkcWJEELsgGNeZFw&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 28 - 08 - 2020 | 00:30:16] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=UdAMt12NyPPdR3wLWxWG8w&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 28 - 08 - 2020 | 00:31:23] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=_f8eSx1U4e4StnXTXbF8Dg&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 28 - 08 - 2020 | 00:50:33] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:50:42] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:51:21] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:51:56] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:52:05] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:52:13] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:52:14] list index out of range
+[Jumat, 28 - 08 - 2020 | 00:57:00] invalid literal for int() with base 10: '@☬gδzδƥ☬parazit'
+[Jumat, 28 - 08 - 2020 | 02:34:09] invalid literal for int() with base 10: '@ᅠᅠ'
+[Jumat, 28 - 08 - 2020 | 02:34:59] list index out of range
+[Senin, 31 - 08 - 2020 | 05:47:46] invalid literal for int() with base 10: 'onurcan'
+[Senin, 28 - 09 - 2020 | 04:55:35] 'LINE' object has no attribute 'datamention'
+[Senin, 28 - 09 - 2020 | 05:02:22] findAndAddContactsByMid() takes 2 positional arguments but 3 were given
+[Senin, 28 - 09 - 2020 | 05:10:43] local variable 'success' referenced before assignment
+[Senin, 28 - 09 - 2020 | 05:13:03] local variable 'targets' referenced before assignment
+[Senin, 28 - 09 - 2020 | 05:13:29] local variable 'targets' referenced before assignment
+[Senin, 28 - 09 - 2020 | 05:15:02] local variable 'mem' referenced before assignment
+[Selasa, 29 - 09 - 2020 | 18:43:01] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=4t3R9Ikmg39c8s0jX0uLQA&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Selasa, 29 - 09 - 2020 | 18:43:01] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=BNc5lQOM8m0t61YlYsLJyA&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Selasa, 29 - 09 - 2020 | 18:43:03] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=G3DL0Q28veRjHRsZOoaj9g&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Selasa, 29 - 09 - 2020 | 18:43:05] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=e6FLHkWtSu96IMCcBMKLVg&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Selasa, 29 - 09 - 2020 | 18:59:04] [Errno 9] Bad file descriptor
+[Selasa, 29 - 09 - 2020 | 19:02:21] [Errno 9] Bad file descriptor
+[Selasa, 29 - 09 - 2020 | 19:02:22] invalid literal for int() with base 10: '@ᅠ'
+[Selasa, 29 - 09 - 2020 | 19:02:23] invalid literal for int() with base 10: '@ᅠ'
+[Selasa, 29 - 09 - 2020 | 19:02:34] invalid literal for int() with base 10: '@ᅠ'
+[Selasa, 29 - 09 - 2020 | 19:02:56] name 'humanize' is not defined
+[Selasa, 29 - 09 - 2020 | 19:04:11] invalid literal for int() with base 10: '@ᅠ'
+[Selasa, 29 - 09 - 2020 | 19:04:12] invalid literal for int() with base 10: '@ᅠ'
+[Selasa, 29 - 09 - 2020 | 19:04:13] invalid literal for int() with base 10: '@ᅠ'
+[Selasa, 29 - 09 - 2020 | 19:04:13] name 'humanize' is not defined
+[Selasa, 29 - 09 - 2020 | 19:04:13] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Selasa, 29 - 09 - 2020 | 19:04:13] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Selasa, 29 - 09 - 2020 | 19:04:19] name 'humanize' is not defined
+[Rabu, 30 - 09 - 2020 | 00:08:25] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:08:45] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:09:06] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:09:27] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:09:47] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:10:07] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:10:27] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:10:47] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:11:07] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:11:27] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:11:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:12:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:12:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:12:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:13:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:13:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:13:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:14:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:14:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:14:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:15:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:15:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:15:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:16:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:16:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:16:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:17:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:17:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:17:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:18:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:18:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:18:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:19:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:19:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:19:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:20:08] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:20:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:20:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:21:09] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:21:30] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:21:50] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:22:11] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:22:32] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:22:53] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:23:13] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:23:33] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:23:53] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:24:13] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:24:33] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:24:53] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:25:13] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:25:33] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:25:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:26:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:26:34] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:26:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:27:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:27:34] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:27:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:28:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:28:34] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:28:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:29:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:29:34] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:29:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:30:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:30:34] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:30:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:31:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:31:34] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:31:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:32:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:32:34] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:32:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:33:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:33:34] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:33:54] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:34:14] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:34:35] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:34:56] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:35:17] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:35:37] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:35:58] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:36:19] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:36:40] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:37:00] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:37:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:37:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:38:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:38:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:38:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:39:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:39:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:39:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:40:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:40:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:40:41] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:41:01] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:41:21] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:41:42] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:42:02] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:42:23] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:42:44] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:43:05] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:43:25] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:43:46] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:44:07] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:44:28] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:44:48] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:45:09] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:45:30] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:45:51] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:46:11] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:46:31] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:46:51] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:47:11] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:47:31] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:47:51] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:48:11] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Rabu, 30 - 09 - 2020 | 00:48:31] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Jumat, 02 - Oktober - 2020 | 07:52:39] Remote end closed connection without response
+[Jumat, 02 - Oktober - 2020 | 07:52:39] [Errno 9] Bad file descriptor
+[Jumat, 02 - Oktober - 2020 | 07:52:39] [Errno 9] Bad file descriptor
+[Jumat, 02 - Oktober - 2020 | 07:53:30] Remote end closed connection without response
+[Jumat, 02 - Oktober - 2020 | 07:53:31] Idle
+[Jumat, 09 - Oktober - 2020 | 16:39:55] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1609119464', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=ex_jT368NvpyIeqVO_dm1g&client_id=1609119464&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Fenesbyrk1.github.io%2Fguventeam.github.io%2F&response_type=code&prompt=consent&type=LL')))
+[Jumat, 09 - Oktober - 2020 | 16:43:16] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Jumat, 09 - Oktober - 2020 | 16:43:36] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Jumat, 09 - Oktober - 2020 | 16:43:56] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[Kamis, 15 - Oktober - 2020 | 08:07:26] name 'humanize' is not defined
+[Kamis, 15 - Oktober - 2020 | 08:19:29] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 15 - Oktober - 2020 | 08:35:10] 'LINE' object has no attribute 'datamention'
+[Kamis, 15 - Oktober - 2020 | 08:35:12] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:35:32] 'LINE' object has no attribute 'datamention'
+[Kamis, 15 - Oktober - 2020 | 08:35:33] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:35:34] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:35:35] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:43:36] 'LINE' object has no attribute 'datamention'
+[Kamis, 15 - Oktober - 2020 | 08:43:37] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:43:37] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:43:37] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:43:45] 'ud73180bd19028b11a891f9706afa81dc'
+[Kamis, 15 - Oktober - 2020 | 08:44:19] 'LINE' object has no attribute 'datamention'
+[Kamis, 15 - Oktober - 2020 | 08:44:19] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:44:19] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:44:19] list index out of range
+[Kamis, 15 - Oktober - 2020 | 08:44:47] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 15 - Oktober - 2020 | 08:45:19] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 15 - Oktober - 2020 | 08:57:51] name 'mi' is not defined
+[Kamis, 15 - Oktober - 2020 | 08:57:51] name 'mi' is not defined
+[Kamis, 15 - Oktober - 2020 | 08:58:20] local variable 'us' referenced before assignment
+[Kamis, 15 - Oktober - 2020 | 09:00:04] local variable 'us' referenced before assignment
+[Kamis, 15 - Oktober - 2020 | 09:00:48] local variable 'us' referenced before assignment
+[Kamis, 15 - Oktober - 2020 | 09:01:56] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 15 - Oktober - 2020 | 09:02:37] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[Kamis, 15 - Oktober - 2020 | 09:03:12] TalkException(code=0, reason='invalid mention.', parameterMap=None)
