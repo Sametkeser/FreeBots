@@ -43,3 +43,14 @@ pip3 install naked
 pip3 install pytz
 
 pip3 install screen
+
+pip3 install wikiapi
+
+pip3 install langdetect
+
+pip3 install slugify
+
+pip3 install null
+
+
+
